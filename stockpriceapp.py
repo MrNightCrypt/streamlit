@@ -12,7 +12,7 @@ import pandas as pd
 st.write("""
 # Simple Stock Price App in 10 Year
 
-Shown are the stock *closing prices* and *volumes* of Google, Apple and Amazon!
+Shown are the stock /u*closing prices* and /u*volumes* of Google, Apple and Amazon!
 """)
 
 ###For Google
